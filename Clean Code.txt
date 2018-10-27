@@ -1,0 +1,2 @@
+Membuat Sebuah program code/source code yang rapih aatau clean itu 
+dengan cara membuat pengecualian pada setiap bug atau error yang ada.
